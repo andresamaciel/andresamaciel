@@ -32,14 +32,10 @@ See my [resume](https://andresamaciel.github.io/resume/) for more details regard
 <!-- Status -->
 ## ⚡ GitHub statistics
 <div style="display: inline_block">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=defaut" />
-</a>
-  <br>
-  <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresamaciel&layout=compact&theme=defaut" />
-</a>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=defaut" /></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresamaciel&" alt="andresamaciel" /></p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresamaciel&layout=compact&theme=defaut" /></a>
 </div>
 
 <!-- Tecnologias -->
