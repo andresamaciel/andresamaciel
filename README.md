@@ -27,8 +27,7 @@ Open to work.
 <!-- Currículo -->
 ### My resume
 
-You can see my resume on GitHub at
-[resume](https://github.com/andresamaciel/resume).
+See my [resume](https://andresamaciel.github.io/resume/) for more details regarding my employment, education, and skills.
 
 <!-- Status -->
 ## ⚡ GitHub statistics
