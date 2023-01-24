@@ -15,16 +15,14 @@
 </div>
 
 <!-- Introdução -->
-## Brief introduction
+## 💻 Brief introduction
 
-👩 Hi!  My name is [Andresa Maciel](https://www.linkedin.com/in/andresamaciel/) and I'm a brazilian 
-front-end developer.
+Hi!  My name is [Andresa Maciel](https://www.linkedin.com/in/andresamaciel/), I’m an ex-architect, majoring in Systems Analysis and Development.
 
-💻 I’m an ex-architect, majoring in Systems Analysis and Development.
+I'm a brazilian front-end developer.
+Besides coding, I also enjoys play videogames, watch bad and predictable romance movies and pet my 2 cats.
 
-🕹 Besides coding, I also enjoys play videogames, watch bad and predictable romance movies and pet my 2 cats.
-
-💸 Open to work.
+Open to work. 
 
 <!-- Currículo -->
 ### My resume
@@ -33,6 +31,7 @@ You can see my resume on GitHub at
 [resume](https://github.com/andresamaciel/resume).
 
 <!-- Status -->
+## ⚡ GitHub statistics
 <div style="display: inline_block">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=defaut" />
@@ -45,7 +44,8 @@ You can see my resume on GitHub at
 </div>
 
 <!-- Tecnologias -->
-<div style="display: inline_block"><br>
+## :woman_technologist: Software languages
+<div style="display: inline_block">
   <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="And-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
