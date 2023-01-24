@@ -1,10 +1,11 @@
 <h1>Olá, tudo bom? Me chamo Andresa. 👋</h1>
 
 <div> 
-<p>😄 Pronomes: ela/dela.</p>
-<p>🐱‍👤 Sou ex-arquiteta, graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por inovação e tecnologia. </p>
-<p>🔭 Atualmente trabalho como estágiaria front-end e estrategista de conteúdo digital.</p>
-<p>🌱 Aberta a propostas. </p>
+<p>🙆‍♀️ Pronomes: ela/dela.</p>
+<p>🐱‍👤 Sou ex-arquiteta, graduanda em Análise e Desenvolvimento de Sistemas na FIAP.</p>
+<p>👩‍💻 Atualmente trabalho como estágiaria front-end e estrategista de conteúdo digital.</p>
+<p>🕹 Jogo jogos eletrônicos por hobby, tenho 2 gatos e sou fã de romances duvidosos... solitude ou solidão?</p>
+<p>💸 Aberta a propostas. </p>
 </div> 
 
 <div style="display: inline_block">
