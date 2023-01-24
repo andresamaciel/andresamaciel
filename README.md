@@ -19,7 +19,7 @@
 Hi!  My name is [Andresa Maciel](https://www.linkedin.com/in/andresamaciel/), I’m an ex-architect, majoring in Systems Analysis and Development.
 
 I'm a brazilian front-end developer.
-Besides coding, I also enjoys play videogames, watch bad and predictable romance movies and pet my [2 cats](https://raw.githubusercontent.com/andresamaciel/andresamaciel/main/cats2.jpg).
+Besides coding, I also enjoy playing videogames, watching bad and predictable romance movies and petting my [2 cats](https://raw.githubusercontent.com/andresamaciel/andresamaciel/main/cats2.jpg).
 
 Open to work. 
 
