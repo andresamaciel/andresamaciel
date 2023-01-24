@@ -36,7 +36,7 @@ See my [resume](https://github.com/andresamaciel/resume/) for more details regar
 </div>
 
 <div style="display: inline_block"><br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresamaciel&layout=compact&theme=defaut" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresamaciel&layout=compact&theme=defaut" /></a>
 </div>
 
 <!-- Tecnologias -->
