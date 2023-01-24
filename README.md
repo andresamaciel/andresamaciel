@@ -1,5 +1,4 @@
-<!-- Contador de visitantes -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=andresamaciel&label=Profile%20views&color=0e75b6&style=flat" alt="andresamaciel" /> </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
 
 <!-- Header typing -->
 <h1 align="center">
@@ -53,3 +52,5 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
