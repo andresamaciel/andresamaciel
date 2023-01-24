@@ -33,11 +33,11 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 <!-- Status -->
 ## ⚡ GitHub statistics
 <div style="display: inline_block">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=defaut" /></a> <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=andresamaciel&" alt="andresamaciel" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=defaut" /> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=andresamaciel&" alt="andresamaciel" />
 </div>
 
 <div style="display: inline_block"><br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresamaciel&layout=compact&theme=defaut" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresamaciel&layout=compact&theme=defaut" />
 </div>
 
 <!-- Tecnologias -->
