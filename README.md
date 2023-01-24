@@ -5,11 +5,11 @@
 <p>🌱 Aberta a propostas. </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=radicals" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=default" />
 </a>
 </br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresamaciel&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresamaciel&layout=compact&theme=default" />
 </a>
 
 <div style="display: inline_block"><br>
