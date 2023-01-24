@@ -26,5 +26,3 @@
   <a href = "mailto:andresa.maciel@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andresamaciel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![snake gif](https://github.com/andresamaciel/andresamaciel/blob/output/github-contribution-grid-snake.svg)
