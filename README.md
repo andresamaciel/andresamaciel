@@ -10,8 +10,8 @@
 
 <!-- Redes sociais de contato -->
 <div align="center">
-  <a href = "mailto:andresa.maciel@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andresamaciel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:andresa.maciel@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andresamaciel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!-- Introdução -->
@@ -33,7 +33,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 <!-- Status -->
 ## ⚡ GitHub statistics
 <div style="display: inline_block">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=defaut" /> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=andresamaciel&" alt="andresamaciel" />
+<img align="center" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=defaut" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=andresamaciel&" alt="andresamaciel" />
 </div>
 
 <div style="display: inline_block"><br>
