@@ -27,7 +27,7 @@ Open to work.
 <!-- Currículo -->
 ### My resume
 
-See my [resume](https://github.com/andresamaciel/resume/) for more details regarding my employment, education, and skills.
+See my [resume](https://github.com/andresamaciel/andresamaciel/blob/main/resume.pdf) for more details regarding my employment, education, and skills.
 
 <!-- Status -->
 ## ⚡ GitHub statistics
