@@ -33,7 +33,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 <!-- Status -->
 ## ⚡ GitHub statistics
 <div style="display: inline_block">
-<img align="center" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=defaut" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=andresamaciel&" alt="andresamaciel" />
+<img align="center" width="47.4%" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=defaut" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=andresamaciel&" alt="andresamaciel" />
 </div>
 
 <div style="display: inline_block"><br>
