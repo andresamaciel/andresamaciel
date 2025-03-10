@@ -5,6 +5,15 @@ Hi!  My name is [Andresa Maciel](https://www.linkedin.com/in/andresamaciel/), Iâ
 
 I'm interested in free software & open source, (free, open, computacional, generative, meta) design, AI, data science, data analysis for AEC and Building information modeling.
 
+<!-- Skills -->
+## :woman_technologist: Skills
+. Revit
+. Dynamo
+. Python
+. Jupyter
+. Archicad
+. Photoshop
+
 <!-- Status -->
 ## âš¡ GitHub statistics
 <div style="display: inline_block">
@@ -15,11 +24,3 @@ I'm interested in free software & open source, (free, open, computacional, gener
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresamaciel&layout=compact&theme=defaut" />
 </div>
 
-<!-- Tecnologias -->
-## :woman_technologist: Skills
-. Revit
-. Dynamo
-. Python
-. Jupyter
-. Archicad
-. Photoshop
