@@ -17,11 +17,9 @@ I'm interested in free software & open source, (free, open, computacional, gener
 
 <!-- Tecnologias -->
 ## :woman_technologist: Skills
-<div style="display: inline_block">
-<a href="https://www.linkedin.com/in/andresamaciel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/revit/revit-original-wordmark.svg" alt="revit" width="40" height="40"/> </a> 
-<a href="https://www.linkedin.com/in/andresamaciel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
-<a href="https://www.linkedin.com/in/andresamaciel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grasshopper/grasshopper-wordmark.svg" alt="grasshopper" width="40" height="40"/> </a>
-<a href="https://www.linkedin.com/in/andresamaciel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archicad/archicad-plain.svg" alt="archicad" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</div>
+. Revit
+. Dynamo
+. Python
+. Jupyter
+. Archicad
+. Photoshop
