@@ -1,33 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
-
-<!-- Header typing -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Andresa+Maciel,+24+yo...;Nice+to+meet+you!&center=true&size=25">
-  </a>
-</h1>
-
-<!-- Redes sociais de contato -->
-<div align="center">
-<a href = "mailto:andresa.maciel@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andresamaciel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 <!-- Introdução -->
 ## 💻 Brief introduction
 
-Hi!  My name is [Andresa Maciel](https://www.linkedin.com/in/andresamaciel/), I’m an ex-architect, majoring in Systems Analysis and Development.
+Hi!  My name is [Andresa Maciel](https://www.linkedin.com/in/andresamaciel/), I’m a brazilian architect and programmer.
 
-I'm a brazilian front-end developer.
-Besides coding, I also enjoy playing videogames, watching bad and predictable romance movies and petting my [2 cats](https://raw.githubusercontent.com/andresamaciel/andresamaciel/main/cats2.jpg).
-
-Open to work. 
-
-
-<!-- Currículo -->
-### My resume
-
-You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main/resume.pdf) or [download](https://github.com/andresamaciel/andresamaciel/raw/main/resume.pdf) for more details regarding my employment, education, and skills.
+I'm interested in free software & open source, (free, open, computacional, generative, meta) design, AI, data science, data analysis for AEC and Building information modeling.
 
 <!-- Status -->
 ## ⚡ GitHub statistics
@@ -40,17 +16,12 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 </div>
 
 <!-- Tecnologias -->
-## :woman_technologist: Software languages
+## :woman_technologist: Skills
 <div style="display: inline_block">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/andresamaciel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/revit/revit-original-wordmark.svg" alt="revit" width="40" height="40"/> </a> 
+<a href="https://www.linkedin.com/in/andresamaciel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
+<a href="https://www.linkedin.com/in/andresamaciel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grasshopper/grasshopper-wordmark.svg" alt="grasshopper" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/andresamaciel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archicad/archicad-plain.svg" alt="archicad" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
