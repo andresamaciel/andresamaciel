@@ -1,18 +1,7 @@
 <!-- Introdução -->
 ## 💻 Brief introduction
 
-Hi!  My name is [Andresa Maciel](https://www.linkedin.com/in/andresamaciel/), I’m a brazilian architect and programmer.
-
-I'm interested in free software & open source, (free, open, computacional, generative, meta) design, AI, data science, data analysis for AEC and Building information modeling.
-
-<!-- Skills -->
-## :woman_technologist: Skills
-. Revit
-. Dynamo
-. Python
-. Jupyter
-. Archicad
-. Photoshop
+Hi!  My name is [Andresa Maciel](https://www.linkedin.com/in/andresamaciel/), I am a data/business analyst with experience in data analysis, project&people management, and business architecture. I bring a technical background in SQL, Python, Power BI, and I'm learning Tableau.
 
 <!-- Status -->
 ## ⚡ GitHub statistics
