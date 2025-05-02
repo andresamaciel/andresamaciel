@@ -6,7 +6,7 @@ Hi!  My name is [Andresa Maciel](https://www.linkedin.com/in/andresamaciel/), I 
 <!-- Status -->
 ## ⚡ GitHub statistics
 <div style="display: inline_block">
-<img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=defaut" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=andresamaciel&" alt="andresamaciel" />
+<img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=andresamaciel&count_private=true&show_icons=true&theme=defaut" /> 
 </div>
 
 <div style="display: inline_block"><br>
